@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate and curious developer with a strong inter
 - Internships and resume tips for freshers!
 
 📫 How to reach me:
-- [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/likithan19/))  
+- [LinkedIn](https://www.linkedin.com/in/likithan19/)  
 - [Email](mailto:likithanarayan07@gmail.com)
 
 ⚡ Fun fact:
